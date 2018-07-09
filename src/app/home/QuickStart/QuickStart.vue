@@ -15,7 +15,7 @@
                 </li>
                 <li>Install Node.js 8.x or higher.</li>
                 <li>Install npm version 5.x or higher</li>
-                <li>clone repository <code>git clone https://github.com/devCrossNet/vue-starter</code></li>
+                <li>clone repository <code>git clone https://github.com/petargeorgiev123/asd</code></li>
                 <li>change directory <code>cd vue-starter</code></li>
                 <li>Install dependencies: <code>npm install</code></li>
                 <li>Run <code>npm run dev</code></li>
