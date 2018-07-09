@@ -20,7 +20,7 @@
 
   export default {
     metaInfo:   {
-      title: 'vue-starter - flexible, scalable, opinionated, fast',
+      title: 'Industrial Software Solutions - flexible, scalable, opinionated, fast',
       meta:  [
         {
           name:    'description',

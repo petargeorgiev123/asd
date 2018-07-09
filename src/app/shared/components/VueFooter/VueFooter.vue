@@ -3,23 +3,22 @@
     <vue-grid>
       <vue-grid-row>
         <vue-grid-item>
-          <small>&copy; Copyright {{year}} Johannes Werner</small>
+          <small>&copy; Copyright {{year}} Industrial Software Solutions</small>
         </vue-grid-item>
 
         <vue-grid-item>
-          <a href="https://github.com/devCrossNet" target="_blank" rel="noopener" aria-label="github profile">
+          <a href="" target="_blank" rel="noopener" aria-label="github profile">
             <i class="fab fa-github-alt" />
           </a>
-          <a href="https://twitter.com/_jwerner_" target="_blank" rel="noopener" aria-label="twitter profile">
+          <a href="" target="_blank" rel="noopener" aria-label="twitter profile">
             <i class="fab fa-twitter-square" />
           </a>
         </vue-grid-item>
-
-        <vue-grid-item>
+       <!-- <vue-grid-item>
           <small><a href="https://github.com/devCrossNet/vue-starter/blob/master/LICENSE" target="_blank" rel="noopener">MIT
                                                                                                                          License</a>
           </small>
-        </vue-grid-item>
+        </vue-grid-item>-->
       </vue-grid-row>
     </vue-grid>
   </div>
