@@ -3,22 +3,21 @@
     <vue-grid>
       <vue-grid-row>
         <vue-grid-item fill class="vueGridItem">
-          <h2>Quick start</h2>
+          <h2>Digital Transformation</h2>
         </vue-grid-item>
 
         <vue-grid-item class="vueGridItem">
           <vue-panel class="vuePanel">
             <vue-panel-body class="vuePanelBody">
               <ol>
-                <li>Install Node.js 8.7.x or higher. Use <a href="https://github.com/creationix/nvm" target="_blank"
-                                                            rel="noopener">nvm</a> to maintain multiple Node.js versions
-                </li>
-                <li>Install Node.js 8.x or higher.</li>
-                <li>Install npm version 5.x or higher</li>
-                <li>clone repository <code>git clone https://github.com/petargeorgiev123/asd</code></li>
-                <li>change directory <code>cd vue-starter</code></li>
-                <li>Install dependencies: <code>npm install</code></li>
-                <li>Run <code>npm run dev</code></li>
+                <li>Industrial Communication networks</li>
+                <li>IoT</li>
+                <li>Big Data</li>
+                <li>Factory Analitics</code></li>
+                <li>Artifical Intelligence</li>
+                <li>Newural Networks</li>
+                <li>Industrial Information Systems</li>
+                <li>Cybersecurity</li>
               </ol>
             </vue-panel-body>
           </vue-panel>
