@@ -10,7 +10,7 @@
           <vue-panel class="vuePanel">
             <vue-panel-body class="vuePanelBody">
               <ol>
-                <li>Industrial Communication networks</li>
+                <li>Industrial Communication networks </li>
                 <li>IoT</li>
                 <li>Big Data</li>
                 <li>Factory Analitics</code></li>
