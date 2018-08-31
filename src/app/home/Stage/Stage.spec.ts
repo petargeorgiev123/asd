@@ -17,7 +17,7 @@ describe('Stage.vue', () => {
       },
     });
 
-    expect(wrapper.find('h1').text()).toBe('vue-starter');
+    expect(wrapper.find('h1').text()).toBe('Industrial Software Solutions');
 
     (wrapper as any).vm.$refs.stage.getClientRects = () => {
       return {
