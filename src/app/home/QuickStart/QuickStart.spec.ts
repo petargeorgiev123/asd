@@ -8,7 +8,7 @@ describe('QuickStart.vue', () => {
   test('renders component', () => {
     const wrapper = mount(QuickStart, { localVue });
 
-    expect(wrapper.find('h2').text()).toBe('Quick start');
+    expect(wrapper.find('h2').text()).toBe('Digital Transformation');
   });
 
 });
